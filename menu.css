@@ -1,0 +1,42 @@
+.card{
+    background-color: aliceblue;  
+    padding: 10px; 
+    border-radius: 10px;
+    font-size: 20px; 
+    margin: 20px;
+    display: flex;
+    width: 700px;
+    font-weight: 700;
+
+    
+};
+
+.title{
+    font-weight: 700;
+}
+
+.image{
+    margin: 5px;
+    float: right;
+
+}
+
+.description{
+    padding-right: 20px;
+    font-weight: 400;
+}
+
+.group{
+    display : flex;
+    justify-content: center;
+}
+
+.cate{
+    padding-left: 25px;
+    font-size: 45px;
+}
+
+.price{
+    position: absolute;
+    bottom: 0;
+}
